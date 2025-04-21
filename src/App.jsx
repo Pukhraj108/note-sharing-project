@@ -1,7 +1,9 @@
 
 
 import React from 'react';
-import AppRouter from './Router';
+
+import AppRouter from './router';
+
 import 'bootstrap/dist/css/bootstrap.min.css'
 import 'animate.css';
 
