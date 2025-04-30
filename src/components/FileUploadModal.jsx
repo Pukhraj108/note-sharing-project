@@ -19,7 +19,7 @@ export default function FileUploadModal({ onClose }) {
 
    try {
      const response = await fetch(
-       "https://script.google.com/macros/s/AKfycbxHJXuDy-1gRXLBLtQA3twzmx-hWe8476jtms-e8idxQlJbdbnHkbpd7wyN4LyHXIx6Hw/exec",
+       "https://script.google.com/macros/s/AKfycbz6uf4hP5oeuARfXu5OLuZkVsw0AYarP7FZRhnEUDHD23dnLtVlVjqNmtvnd452-DfBsg/exec",
        {
          method: "POST",
          body: formData,
